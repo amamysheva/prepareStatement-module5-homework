@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Name_1",
+    "birthday": "1998-04-14",
+    "level": "Trainee",
+    "salary": 500
+  },
+  {
+    "name": "Name_2",
+    "birthday": "1989-01-18",
+    "level": "Junior",
+    "salary": 1200
+  },
+  {
+    "name": "Name_3",
+    "birthday": "1994-06-06",
+    "level": "Middle",
+    "salary": 2300
+  },
+  {
+    "name": "Name_4",
+    "birthday": "1985-12-24",
+    "level": "Senior",
+    "salary": 6500
+  },
+  {
+    "name": "Name_5",
+    "birthday": "2005-11-11",
+    "level": "Trainee",
+    "salary": 400
+  },
+  {
+    "name": "Name_6",
+    "birthday": "1995-05-25",
+    "level": "Junior",
+    "salary": 900
+  },
+  {
+    "name": "Name_7",
+    "birthday": "2000-09-12",
+    "level": "Middle",
+    "salary": 1800
+  },
+  {
+    "name": "Name_8",
+    "birthday": "1992-02-28",
+    "level": "Senior",
+    "salary": 6500
+  },
+  {
+    "name": "Name_9",
+    "birthday": "2001-08-11",
+    "level": "Trainee",
+    "salary": 550
+  },
+  {
+    "name": "Name_10",
+    "birthday": "1988-07-30",
+    "level": "Junior",
+    "salary": 850
+  }
+]
